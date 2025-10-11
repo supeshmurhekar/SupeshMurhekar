@@ -1,3 +1,4 @@
+![logo](https://github.com/supeshmurhekar/SupeshMurhekar/blob/main/SUPESH%20MURHEKAR%20(1).png)
 <h1 align="center">Hi 👋, I'm Supesh Murhekar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
