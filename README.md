@@ -1,5 +1,5 @@
 <!--![logo](https://github.com/supeshmurhekar/SupeshMurhekar/blob/main/SUPESH%20MURHEKAR%20(1).png)-->
-<div style="background-image: url('https://your-image-link.com/bg.png'); 
+<div style="background-image: url('[https://your-image-link.com/bg.png](https://www.shutterstock.com/image-vector/abstract-infographic-visualization-financial-chart-600nw-2428087473.jpg)'); 
             background-size: cover; 
             padding: 50px; 
             color: white; 
