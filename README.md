@@ -1,4 +1,9 @@
 <!--![logo](https://github.com/supeshmurhekar/SupeshMurhekar/blob/main/SUPESH%20MURHEKAR%20(1).png)-->
+<div style="background-image: url('https://your-image-link.com/bg.png'); 
+            background-size: cover; 
+            padding: 50px; 
+            color: white; 
+            text-align: center;">
 <h1 align="center">Hi 👋, I'm Supesh Murhekar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
@@ -20,3 +25,4 @@
 <!-- <p><img align="center" src="" alt="supeshmurhekar" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supeshmurhekar&" alt="supeshmurhekar" /></p> -->
+</div>
